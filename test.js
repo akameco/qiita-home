@@ -1,6 +1,6 @@
 import test from 'ava';
 import execa from 'execa';
 
-test(async t => {
+test(t => {
 	t.notThrows(execa('./cli.js'));
 });
