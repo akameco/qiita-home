@@ -22,6 +22,9 @@
   ],
   "author": "akameco <akameco.t@gmail.com>",
   "license": "MIT",
+  "engins": {
+    "node": ">=4"
+  },
   "bugs": {
     "url": "https://github.com/akameco/qiita-home/issues"
   },
@@ -35,5 +38,8 @@
     "ava": "^0.17.0",
     "execa": "^0.5.0",
     "xo": "^0.17.0"
+  },
+  "xo": {
+    "esnext": true
   }
 }
