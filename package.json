@@ -31,7 +31,7 @@
   "homepage": "https://github.com/akameco/qiita-home#readme",
   "dependencies": {
     "meow": "^3.7.0",
-    "opn": "^4.0.2",
+    "opn": "^5.0.0",
     "read-pkg-up": "^2.0.0"
   },
   "devDependencies": {
